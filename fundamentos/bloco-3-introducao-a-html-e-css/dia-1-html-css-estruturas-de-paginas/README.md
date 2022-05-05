@@ -1,31 +1,18 @@
 # DIA 1
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido criação do repositório no GitHub.
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre html e suas tags.
 
 Os requisitos exercício são:
 
-1. ara podermos simular um exercício feito, você criará um arquivo .txt com um nome de sua escolha (Exemplo: trybe-skills.txt ) e utilizará o conteúdo abaixo.
+`parte 01`
 
+1 - Crie uma lista das pessoas que você já fez amizade na Trybe.
+2 - Adicione uma imagem que venha de uma URL externa.
+3 - Adicione uma imagem que está no seu computador, local.
 
-O que eu vou aprender na Trybe:
+`parte 02`
 
-- Unix
-- Bash
-- Git
-
-
-2. No final, ao executar o comando ls -l na pasta de arquivos deste dia, você deverá receber um retorno parecido com:
-
-
-3. Agora vamos transformar essa pasta em um repositório Git :
-
-- Retorne para a raiz da pasta de exercícios;
-- Inicialize o repositório com git init ;
-- Crie um arquivo de README utilizando o comando touch README.md ;
-- Crie um commit inicial utilizando:
-
-4. Vá até o seu GitHub e crie um repositório público , onde você irá guardar todos os exercícios que desenvolverá ao longo do curso;
-
-- Dê ao repositório um nome descritivo, como por exemplo trybe-exercicios ;
-
+1 - Crie um parágrafo para cada pessoa da sua lista.
+2 - Crie um link entre a sua lista e os parágrafos de pessoas.
+3 - Crie um link para a página do Google.
 
