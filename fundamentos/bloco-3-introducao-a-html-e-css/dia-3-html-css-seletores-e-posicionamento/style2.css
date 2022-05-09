@@ -1,0 +1,15 @@
+hi, p {
+    text-align: center;
+}
+
+ol:hover {
+    background-color: aquamarine;
+}
+
+ol:active {
+    color: azure;
+}
+
+ol, ul {
+    list-style: none;
+}
